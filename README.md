@@ -70,9 +70,9 @@
 - 2022年1月 AZ-104: Microsoft Azure Administrator
 
 今年度は以下の資格を取得予定。（上から順に受験）
-　　　・Certified Kubernetes Administrator (CKA) 
-　　　・Certified Kubernetes Application Developer（CKAD）
-　　　・ネットワークスペシャリスト
+- Certified Kubernetes Administrator (CKA) 
+- Certified Kubernetes Application Developer（CKAD）
+- ネットワークスペシャリスト
 
 
 
